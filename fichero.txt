@@ -1,16 +1,1 @@
 Hola Esto es un fichero
-
-Que mola mucho
-
-¿A qué sí?
-
-<<<<<<< HEAD
-
-
-
-Pues sí, la verdad que sí
-
-Sí, te he escuchado
-=======
-¿Me has escuchado?
->>>>>>> origin/master
